@@ -42,4 +42,14 @@ So basically the leg was done!
 ## Day 10: Dont ask me why is this so complex..
 Yeah i just realized it would be hard to 3d print and assemble some parts. so fixed mny issues!
 
-## Day 11: thats tmrw
+## Day 11-13: Final Full dog design.
+Today I designed my almost complete dog.
+<img width="862" height="757" alt="image" src="https://github.com/user-attachments/assets/5f591f54-7b1a-448d-ab76-287098ec5f76" />
+
+I also finished my overly expensive [BOM](https://docs.google.com/spreadsheets/d/1tXSbPTXzO7x9RjKfoS4aTnTzwVyE0GcGUCTSj2ZbIsA/edit?gid=0#gid=0)
+Right now i am not adding sensor mounts and all to my dog since i will test my ai stuff and then add sensors and all for autmoated dog exploration.
+
+I am not sure if it looks good. But remember to star my repo
+
+## Day 11: Final stuff
+Some final adjustments, submitted in highway pitstop channel.
