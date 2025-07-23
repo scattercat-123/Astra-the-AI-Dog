@@ -1,8 +1,8 @@
 # Astra: The AI Quadruped dog
 ## What is this?
  - A dog which acts as a companion robot dog.
- - Uses servos and multiple sensor for advanced AI!
- - Using jetson nano orin super!!!
+ - Uses Actuators with planetary gearbox and multiple sensor for advanced AI!
+ - Using jetson nano orin super(raspberry pi using for testing)!!!
 <hr>
 
 ## Day 1: Research and starting fusion
