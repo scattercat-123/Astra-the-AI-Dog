@@ -1,5 +1,3 @@
-# You can view my dog online too!
-Or just check out the files in this folder..
-[Click for online 3d viewer](https://a360.co/45iizav)
-
-I will be updating my dog frequently with changes.. for sensors and ai features. so check it out!
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b650959b2dad1466ebd44ab4178f5cbf3c10a7575beec1b4a8db7cbe0e37155
+size 232
