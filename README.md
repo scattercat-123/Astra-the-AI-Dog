@@ -1,6 +1,8 @@
-# Astra-the-AI-Dog :dog`
+# Astra-the-AI-Dog 🐶
 Me making a quadruped robot dog companion.
 Check the Journal.md file for more info.
+
+<b>BOM</b> : [https://docs.google.com/spreadsheets/d/1tXSbPTXzO7x9RjKfoS4aTnTzwVyE0GcGUCTSj2ZbIsA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1tXSbPTXzO7x9RjKfoS4aTnTzwVyE0GcGUCTSj2ZbIsA/edit?usp=sharing)
 
 ## How does this work:
 <img width="663" height="657" alt="image" src="https://github.com/user-attachments/assets/caf3c27e-5e9f-47a4-a293-908bad61a7da" />
