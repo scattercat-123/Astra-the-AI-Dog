@@ -6,13 +6,13 @@
 <hr>
 
 ## Day 1: Research and starting fusion
-I have already researched enough ðŸ˜­. imma start
+I have already researched enough­. imma start
 Okay im using carbon fiber rods for the leg!
 And for the foot im using a silicon molded ball thing :suspect:
 
 ![image](https://github.com/user-attachments/assets/a484d9ee-e3fb-4956-9189-59755a48dcfe)
 
-A somewhat completed foot ðŸ¦¶
+A somewhat completed foot 🦶
 
 ## Day 2: I dint show you something b4
 I actually had started designing 2 ACTUATORS. One was using a [camera motor](https://shop.iflight.com/ipower-motor-gm5208-12-brushless-gimbal-motor-pro279?srsltid=AfmBOorSPDTZzSXuuPQEK-6dXlJDZKPpKBmCNM_RbTE9hdy-FQK5-I5s) - i forgot whats that called. but that only had 2.5kg/cm which i had observed after an entire day.
